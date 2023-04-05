@@ -1,0 +1,8 @@
+/* Compiled files */
+a.out
+*.o
+*.i
+
+
+/* Main files */
+*main.c
