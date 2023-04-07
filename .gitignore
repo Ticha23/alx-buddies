@@ -5,3 +5,8 @@
 
 /* Main files */
 *main.c
+
+/* Temporary files */
+*.swp
+.swo
+
