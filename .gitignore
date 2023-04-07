@@ -1,0 +1,12 @@
+/* Complied files */
+*.o
+*.s
+*.i
+
+/* Main files */
+*main.c
+
+/* Temporary files */
+*.swp
+.swo
+
